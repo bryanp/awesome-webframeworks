@@ -135,7 +135,7 @@ _JSON HTTP API Builder_
 
 <!-- new list -->
 
-- **Pakyow** (web: [pakyow.org](http://pakyow.org), github: [pakyow/pakyow](https://github.com/pakyow/pakyow), gem:  [pakyow](https://rubygems.org/gems/pakyow)) - an open-source framework for the modern web with a view-first development process that's friendly to everyone whether you're a designer or a developer
+- **Pakyow** (web: [pakyow.org](http://pakyow.org), github: [pakyow/pakyow](https://github.com/pakyow/pakyow), gem:  [pakyow](https://rubygems.org/gems/pakyow)) - a web framework that delivers realtime, reactive views in a back-end driven architecture; no code is moved to the client
     - [News & Updates](http://pakyow.org/blog)
 
 <!-- new list -->
